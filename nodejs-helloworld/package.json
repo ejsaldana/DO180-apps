@@ -4,8 +4,5 @@
   "description": "Hello World!",
   "main": "app.js",
   "author": "Red Hat Training",
-  "license": "ASL",
-  "dependencies": {
-    "express": "4.13.x"
-  }
+  "license": "ASL"
 }
